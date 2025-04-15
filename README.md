@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I'm Aiden (Kyungmin Park) 👋
+### I'm Aiden (Kyungmin Park)
 
 I'm a **Frontend Developer** and **Computer Science student** at Korea University.  
 I have experience in building multiple websites and Android applications,  
