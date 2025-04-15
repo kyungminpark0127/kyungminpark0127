@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/kyungminpark0127/assets/banner.png](https://raw.githubusercontent.com/kyungminpark0127/kyungminpark0127/main/assets/banner.png
-)" alt="banner" />
+  <img src="[https://github.com/kyungminpark0127/assets/banner.png](https://raw.githubusercontent.com/kyungminpark0127/kyungminpark0127/main/assets/banner.png)" alt="banner" />
 </p>
 
 ## Hi there 👋
