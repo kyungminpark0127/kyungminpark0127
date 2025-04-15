@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/kyungminpark0127/kyungminpark0127/assets/banner.png" alt="기술 로고 배너" />
+</p>
+
 ## Hi there 👋
 ### I'm Aiden (Kyungmin Park)
 
