@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kyungminpark0127/kyungminpark0127/assets/banner.png" alt="기술 로고 배너" />
+  <img src="https://github.com/kyungminpark0127/kyungminpark0127/assets/banner.png" alt="banner" />
 </p>
 
 ## Hi there 👋
