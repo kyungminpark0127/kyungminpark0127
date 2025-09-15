@@ -31,9 +31,10 @@ and currently working as a **freelancer**.
 ---
 
 **📬 Contact**
-- 📧 Email: kyungminpark0127@gmail.com  
-- 💬 Discord: aiden_ftm  
-- 🌐 Portfolio: [Introduce Myself](https://aiden-park-portfolio.netlify.app/)
+- Email: kyungminpark0127@gmail.com  
+- Discord: aiden_ftm  
+- Portfolio: [Introduce Myself](https://aiden-park-portfolio.netlify.app/)
+- LinkedIn: [KyungMinPark](https://www.linkedin.com/in/kyungmin-park-340032341/)
 
 ---
 
