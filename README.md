@@ -17,18 +17,31 @@ I am a **Software Engineering student** and a **freelance developer** who loves 
 ---
 
 ### 🔧 Tech Stack
-**Frontend**
+
+**Frontend & Styling**
 <p>
   <img src="https://img.shields.io/badge/Svelte%205-000000?style=for-the-badge&logo=svelte&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-**Backend & Tools**
+**Languages & Backend**
 <p>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" />
+</p>
+
+**Design & Creative**
+<p>
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/VRChat-000000?style=for-the-badge&logo=vrchat&logoColor=white" />
 </p>
 
 ---
