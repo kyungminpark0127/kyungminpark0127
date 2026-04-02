@@ -1,24 +1,25 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hye-ji's%20Dev%20Space&fontSize=70&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Hye-ji's%20Dev%20Space&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </p>
 
-## Hi there, I'm Hye-ji! 👋
-### ✨ Creative Frontend Developer & Software Engineering Student
+## [ Hello, I'm Hye-ji ]
+### / CREATIVE FRONTEND DEVELOPER & SOFTWARE ENGINEERING STUDENT
 
-I am a **Software Engineering student** and a **freelance developer** who loves crafting clean, aesthetic, and functional web experiences. I specialize in modern frontend frameworks like **Svelte 5**.
-
----
-
-### 📘 Background & Education
-- 🎓 **Cyber University** | B.S. in Software Engineering (2025.03 ~ Present)
-- 💻 Specialized in **Svelte 5** & Modern Web Architectures
-- 🛠️ Currently focusing on building personal AI assistants and virtual streaming tools
+I am a **Software Engineering student** and a **freelance developer** dedicated to building high-performance web applications. I focus on creating seamless user experiences using **Svelte 5** and modern cloud infrastructures.
 
 ---
 
-### 🔧 Tech Stack
+### [ 01. PROFILE ]
+- **Affiliation** | Cyber University, B.S. in Software Engineering (2025.03 - Present)
+- **Specialty** | Modern Frontend Architecture / Svelte 5 / UI/UX Design
+- **Projects** | Personal AI Assistant Development / Full-stack Freelance Projects
+- **System** | Native Linux Development Environment (Pop!_OS)
 
-**Frontend & Styling**
+---
+
+### [ 02. TECH STACK ]
+
+**FRONTEND / STYLING**
 <p>
   <img src="https://img.shields.io/badge/Svelte%205-000000?style=for-the-badge&logo=svelte&logoColor=white" />
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
@@ -27,7 +28,7 @@ I am a **Software Engineering student** and a **freelance developer** who loves 
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
 </p>
 
-**Backend & Infrastructure**
+**BACKEND / INFRA**
 <p>
   <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" />
@@ -35,7 +36,7 @@ I am a **Software Engineering student** and a **freelance developer** who loves 
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
-**Core Languages**
+**CORE LANGUAGES**
 <p>
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
@@ -45,7 +46,7 @@ I am a **Software Engineering student** and a **freelance developer** who loves 
 
 ---
 
-### 📊 GitHub Activity
+### [ 03. GITHUB STATS ]
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kyungminpark0127&show_icons=true&theme=dark&title_color=ffffff&icon_color=ffffff&text_color=bebebe&bg_color=00000000" alt="Hye-ji's GitHub Stats" />
 </p>
@@ -56,9 +57,9 @@ I am a **Software Engineering student** and a **freelance developer** who loves 
 
 ---
 
-### 📬 Let's Connect!
-- 📧 **Email:** [hye-ji-park@protonmail.com](mailto:hye-ji-park@protonmail.com)
-- 💬 **Discord:** [Park Hye-ji](https://www.discord.com/users/1487038876575989800)
-- 🌐 **Portfolio:** [Explore My Work](https://aiden-park-portfolio.netlify.app/)
+### [ 04. CONTACT ]
+- **Email** | [hye-ji-park@protonmail.com](mailto:hye-ji-park@protonmail.com)
+- **Discord** | [Park Hye-ji](https://www.discord.com/users/1487038876575989800)
+- **Portfolio** | [Visit Portfolio](https://aiden-park-portfolio.netlify.app/)
 
-<p align="center">✨ Always open to interesting collaborations and freelance opportunities ✨</p>
+<p align="center">** Always open to interesting collaborations and freelance opportunities **</p>
