@@ -3,38 +3,36 @@
 </p>
 
 ## Hi there 👋
-### I'm Aiden (Kyungmin Park)
+### I'm Hye-ji (Aiden)
 
-I'm a **Frontend Developer** and **Computer Science student** at Korea University.  
-I have experience in building multiple websites and Android applications,  
-and currently working as a **freelancer**.
+I'm a passionate **Frontend Developer** and **Software Engineering student**.  
+I specialize in building intuitive web interfaces and have extensive experience as a **freelance developer**.  
+I love turning complex problems into elegant, user-friendly solutions.
 
 ---
 
 **📘 Background**
-- 🎓 Korea University, Department of Computer Science (2025.03 ~ Present)  
-  - Currently a **freshman (1st year)**  
-- 🏫 Gyeonggi Creative High School (2021 ~ 2024.02)
+- 🎓 **Cyber University**, Department of Software Engineering (2025.03 ~ Present)  
+- 🏫 Experienced in modern web frameworks and full-stack side projects.
 
 ---
 
 **🔧 Skills**
-- **Frontend:** React, JavaScript, HTML, CSS  
-- **Backend / Other:** PHP, Git, Figma  
-- **Mobile App:** Android Studio (Java/Kotlin)
+- **Frontend:** Svelte 5, SvelteKit, React, JavaScript (ES6+), HTML5, CSS3
+- **Backend / Tools:** Supabase, PHP, Firebase, Git, Linux (Pop!_OS)
+- **Design:** Figma, VRChat Avatar Customization (Unity)
 
 ---
 
 **💼 Availability**
-- Open to freelance projects, part-time development, or collaborations.
+- I am actively looking for freelance projects, collaborative development, or interesting open-source contributions.
 
 ---
 
 **📬 Contact**
-- Email: kyungminpark0127@gmail.com  
-- Discord: [aiden_ftm](https://www.discord.com/users/1340282899181731941)  
-- Portfolio: [Introduce Myself](https://aiden-park-portfolio.netlify.app/)
-- LinkedIn: [KyungMinPark](https://www.linkedin.com/in/kyungmin-park-340032341/)
+- **Email:** kyungminpark0127@gmail.com
+- **Discord:** [aiden_ftm](https://www.discord.com/users/1340282899181731941)
+- **Portfolio:** [Visit My Portfolio](https://aiden-park-portfolio.netlify.app/)
 
 ---
 
@@ -53,14 +51,13 @@ and currently working as a **freelancer**.
 **🏅 Tech Badges**
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-<p align="center">Thank you for visiting my profile.</p>
+<p align="center">Thank you for visiting my profile. Feel free to reach out!</p>
