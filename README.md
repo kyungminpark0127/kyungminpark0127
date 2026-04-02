@@ -7,7 +7,8 @@
 
 I am a **Software Engineering student** and a **freelance developer** dedicated to building high-performance web applications. I focus on creating seamless user experiences using **Svelte 5** and modern cloud infrastructures.
 <br />
-사용자 중심의 웹 경험을 설계하는 **소프트웨어 공학도**이자 **프리랜서 개발자**입니다. **Svelte 5**와 현대적인 클라우드 인프라를 활용하여 빠르고 유연한 애플리케이션을 구축하는 데 집중하고 있습니다.
+<br />
+사용자 중심의 웹 경험을 설계하는 **소프트웨어 공학과 재학생**이자 **프리랜서 개발자**입니다. **Svelte 5**와 현대적인 클라우드 인프라를 활용하여 빠르고 유연한 애플리케이션을 구축하는 데 집중하고 있습니다.
 
 ---
 
@@ -65,4 +66,4 @@ I am a **Software Engineering student** and a **freelance developer** dedicated 
 - **Portfolio** | [Visit Portfolio](https://aiden-park-portfolio.netlify.app/)
 
 <p align="center">** Always open to interesting collaborations and freelance opportunities **</p>
-<p align="center">** 언제나 흥미로운 협업과 외주 프로젝트 제안을 환영합니다 **</p>
+<p align="center">** 언제나 협업과 외주 프로젝트 제안을 환영합니다 **</p>
